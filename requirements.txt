@@ -1,0 +1,12 @@
+tensorflow
+streamlit
+transformers
+matplotlib
+scikit_learn
+pydot
+seaborn
+bert-extractive-summarizer
+spacy
+ipywidgets
+tqdm
+plotly
