@@ -1,6 +1,6 @@
 # Text Classification webapp using streamlit
 
-![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
+![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/Text-classification-webapp-with-streamlit/blob/main/sentiment-analysis.jpg)
 
 ## This repository contains text classification with the help of four differnet models
 1) MLP
