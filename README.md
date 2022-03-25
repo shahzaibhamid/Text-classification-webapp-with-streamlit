@@ -1,4 +1,7 @@
 # Text Classification webapp using streamlit
+
+![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
+
 ## This repository contains text classification with the help of four differnet models
 1) MLP
 2) CNN
